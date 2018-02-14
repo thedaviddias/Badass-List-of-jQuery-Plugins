@@ -39,25 +39,27 @@ If you want to add anything new, just fork this repo and send me a pull request.
 
 ## Layout
 
+* [Sweet Alert 2](https://sweetalert2.github.io/): A beautiful, responsive, customizable, accessible (WAI-ARIA) replacement for JavaScript's popup boxes
+
 ## Form Elements
 
 * [International Telephone Input](https://github.com/jackocnr/intl-tel-input): A jQuery plugin for entering and validating international telephone numbers (https://intl-tel-input.com/)
 
-> 
+>
 [![GitHub stars](https://img.shields.io/github/stars/jackocnr/intl-tel-input.svg?style=social&label=Star)](https://github.com/jackocnr/intl-tel-input)
 [![GitHub forks](https://img.shields.io/github/forks/jackocnr/intl-tel-input.svg?style=social&label=Fork)](https://github.com/jackocnr/intl-tel-input)
 [![downloads](https://img.shields.io/npm/dm/intl-tel-input.svg)](https://npmjs.org/package/intl-tel-input)
 
 * [Dropzone](https://github.com/enyo/dropzone): Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 
-> 
+>
 [![GitHub stars](https://img.shields.io/github/stars/enyo/dropzone.svg?style=social&label=Star)](https://github.com/enyo/dropzone)
 [![GitHub forks](https://img.shields.io/github/forks/enyo/dropzone.svg?style=social&label=Fork)](https://github.com/enyo/dropzone)
 [![downloads](https://img.shields.io/npm/dm/dropzone.svg)](https://npmjs.org/package/dropzone)
 
 * [Mailcheck](https://github.com/mailcheck/mailcheck): To help the user to check if he misspell an email address.
 
-> 
+>
 [![GitHub stars](https://img.shields.io/github/stars/mailcheck/mailcheck.svg?style=social&label=Star)](https://github.com/mailcheck/mailcheck)
 [![GitHub forks](https://img.shields.io/github/forks/mailcheck/mailcheck.svg?style=social&label=Fork)](https://github.com/mailcheck/mailcheck)
 [![downloads](https://img.shields.io/npm/dm/mailcheck.svg)](https://npmjs.org/package/mailcheck)
@@ -66,7 +68,7 @@ If you want to add anything new, just fork this repo and send me a pull request.
 
 * [Flatpickr](https://github.com/chmln/flatpickr): A lightweight & powerful datetimepicker
 
-> 
+>
 [![GitHub stars](https://img.shields.io/github/stars/chmln/flatpickr.svg?style=social&label=Star)](https://github.com/algolia/mailcheck)
 [![GitHub forks](https://img.shields.io/github/forks/chmln/flatpickr.svg?style=social&label=Fork)](https://github.com/chmln/autocomplete.js)
 [![downloads](https://img.shields.io/npm/dm/flatpickr.svg)](https://npmjs.org/package/flatpickr)
@@ -75,7 +77,7 @@ If you want to add anything new, just fork this repo and send me a pull request.
 
 * [Autocomplete](https://github.com/algolia/autocomplete.js): Fast and full-featured autocomplete library
 
-> 
+>
 [![GitHub stars](https://img.shields.io/github/stars/algolia/autocomplete.js.svg?style=social&label=Star)](https://github.com/algolia/mailcheck)
 [![GitHub forks](https://img.shields.io/github/forks/algolia/autocomplete.js.svg?style=social&label=Fork)](https://github.com/algolia/autocomplete.js)
 [![downloads](https://img.shields.io/npm/dm/autocomplete.js.svg)](https://npmjs.org/package/autocomplete.js)
