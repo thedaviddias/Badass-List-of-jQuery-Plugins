@@ -39,7 +39,13 @@ If you want to add anything new, just fork this repo and send me a pull request.
 
 ## Layout
 
+## UI Element - Popup
+
 * [Sweet Alert 2](https://sweetalert2.github.io/): A beautiful, responsive, customizable, accessible (WAI-ARIA) replacement for JavaScript's popup boxes
+
+[![GitHub stars](https://img.shields.io/github/stars/sweetalert2/sweetalert2.svg?style=social&label=Star)](https://github.com/sweetalert2/sweetalert2)
+[![GitHub forks](https://img.shields.io/github/forks/sweetalert2/sweetalert2.svg?style=social&label=Fork)](https://github.com/sweetalert2/sweetalert2)
+[![downloads](https://img.shields.io/npm/dm/sweetalert2.svg)](https://npmjs.org/package/sweetalert2)
 
 ## Form Elements
 
@@ -81,3 +87,12 @@ If you want to add anything new, just fork this repo and send me a pull request.
 [![GitHub stars](https://img.shields.io/github/stars/algolia/autocomplete.js.svg?style=social&label=Star)](https://github.com/algolia/mailcheck)
 [![GitHub forks](https://img.shields.io/github/forks/algolia/autocomplete.js.svg?style=social&label=Fork)](https://github.com/algolia/autocomplete.js)
 [![downloads](https://img.shields.io/npm/dm/autocomplete.js.svg)](https://npmjs.org/package/autocomplete.js)
+
+## UI Elements - Charts
+
+* [Chart.js](http://www.chartjs.org/): Simple yet flexible JavaScript charting for designers & developers
+
+>
+[![GitHub stars](https://img.shields.io/github/stars/chartjs/Chart.js.svg?style=social&label=Star)](https://github.com/chartjs/Chart.js)
+[![GitHub forks](https://img.shields.io/github/forks/chartjs/Chart.js.svg?style=social&label=Fork)](https://github.com/chartjs/Chart.js)
+[![downloads](https://img.shields.io/npm/dm/chart.js.svg)](https://npmjs.org/package/chart.js)
